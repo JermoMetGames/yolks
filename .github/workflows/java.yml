@@ -46,4 +46,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/JermoMetGames/yolks:java_${{ matrix.tag }}
+            ghcr.io/jermometgames/yolks:java_${{ matrix.tag }}
